@@ -25,25 +25,31 @@ Este é um programa em Python que realiza uma avaliação personalizada do risco
    ```bash
    git clone https://github.com/seu-usuario/risco-diabetes.git
 
+---
+
 ## 📊 Como funciona o cálculo de risco?
 O programa atribui pontuações com base nas respostas do usuário:
 
-Idade:
+O programa atribui pontuações com base nas respostas do usuário:
+
+**1. Idade:**
 
 45 a 54 anos: +2 pontos
 55 a 64 anos: +3 pontos
 Mais de 64 anos: +4 pontos
-IMC (Índice de Massa Corporal):
+
+**2. IMC (Índice de Massa Corporal):**
 
 25 a 30: +1 ponto
 Acima de 30: +3 pontos
 Pressão arterial alta:
 
-Usuários que tomam remédios: +2 pontos
-Glicemia alta:
+**3. Usuários que tomam remédios: +2 pontos**
 
+**4. Glicemia alta:**
 Histórico de glicemia alta: +2 pontos
-Histórico familiar:
+
+**5. Histórico familiar:**
 
 Pais, irmãos ou filhos com diabetes: +5 pontos
 Avós, tios ou primos de primeiro grau com diabetes: +3 pontos
