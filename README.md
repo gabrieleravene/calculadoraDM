@@ -44,7 +44,8 @@ Mais de 64 anos: +4 pontos
 Acima de 30: +3 pontos
 Pressão arterial alta:
 
-**3. Usuários que tomam remédios: +2 pontos**
+**3. Usuários que tomam remédios para pressão alta:**
++2 pontos
 
 **4. Glicemia alta:**
 Histórico de glicemia alta: +2 pontos
