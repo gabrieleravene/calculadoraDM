@@ -25,7 +25,7 @@ Este é um programa em Python que realiza uma avaliação personalizada do risco
    ```bash
    git clone https://github.com/seu-usuario/risco-diabetes.git
 
-📊 Como funciona o cálculo de risco?
+## 📊 Como funciona o cálculo de risco?
 O programa atribui pontuações com base nas respostas do usuário:
 
 Idade:
