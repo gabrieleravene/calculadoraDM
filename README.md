@@ -15,18 +15,6 @@ Este é um programa em Python que realiza uma avaliação personalizada do risco
 
 ---
 
-## 🛠️ Como executar o programa
-
-### Pré-requisitos
-- Python 3.6 ou superior instalado em seu computador.
-
-### Passo a passo
-1. **Clone ou faça o download deste repositório**:
-   ```bash
-   git clone https://github.com/seu-usuario/risco-diabetes.git
-
----
-
 ## 📊 Como funciona o cálculo de risco?
 O programa atribui pontuações com base nas respostas do usuário:
 
